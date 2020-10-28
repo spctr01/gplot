@@ -1,0 +1,6 @@
+#!python
+
+import os
+from gapp import location
+
+os.system(location.path) 
