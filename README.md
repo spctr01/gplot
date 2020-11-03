@@ -5,7 +5,7 @@
  ![alt text](https://github.com/spctr01/gploter/blob/main/demo.gif)
  
  -----
- ## Installation 
+ ## Installation   (Tested on Linux)
   Downlaod gploter by pip:
   ```
   pip install gplot
