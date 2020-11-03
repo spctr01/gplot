@@ -3,4 +3,5 @@
 import os
 from gapp import location
 
+#  runs the command streamlit run app.py
 os.system(location.path) 
