@@ -19,7 +19,7 @@
 
  #### Make the google sheet public
   
- - paste the google sheet id and sheet name respectively.
+ - paste the google sheet id and sheet name respectively. (by default both are filled for demo)
  - Press column button. It automatically fetchs columns names from sheet to choose x and y axis
  - Choose  the axis and press plot button
  
