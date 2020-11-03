@@ -4,6 +4,7 @@
  
  ![alt text](https://github.com/spctr01/gploter/blob/main/demo.gif)
  
+ -----
  ## Installation 
   Downlaod gploter by pip:
   ```
@@ -24,7 +25,32 @@
  
  ##### to save ploted chart as image click the camera icon on right top of the chart
  
- 
+ ------
  ## Directory structure
+ ```
+  
+|-gapp
+|    |
+|    |--app.py  :  fronend for the library gets user input & plot chart
+|    |
+|    |--plot.py  : fetches sheet column and return chart
+|    |
+|    |location.py  : returns the location of file app.py
+|    |
+|    |--sessionState.py : handles teh session state of streamlt 
+|    |
+|    |--__init__.py :  __init__ file
+|
+| 
+|-gploter   :  executable file to run the library 
+|
+|-setup.py  :  package metadata information  (used for pip)
+|
+|-build     :   build package information   (used for pip)
+|
+|-dist      :   contains .whl file          (use for pip)
+|
+|-gploter.egg-info :   compliled bite code   (used for pip)
+ ```
  
  
