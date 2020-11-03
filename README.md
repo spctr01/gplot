@@ -1,4 +1,4 @@
- <h1 align="center">Gploter </h1>
+ <h1 align="center">Gplot </h1>
 <h5 align="center">Python library with graphical interface to plot intractive chart from the google sheet</h5>
 
  
@@ -8,12 +8,12 @@
  ## Installation 
   Downlaod gploter by pip:
   ```
-  pip install gploter
+  pip install gplot
   ```
  ## Usage
  Run the comamnd in terminal:
  ```
- gploter
+ gplot
  ```
  It opens  a frontend in browser automatically if doesnt open automatically type in browser `http://localhost:8501`
 
@@ -42,7 +42,7 @@
 |    |--__init__.py :  __init__ file
 |
 | 
-|-gploter   :  executable file to run the library 
+|-gplot   :  executable file to run the library 
 |
 |-setup.py  :  package metadata information  (used for pip)
 |
@@ -50,7 +50,7 @@
 |
 |-dist      :   contains .whl file          (use for pip)
 |
-|-gploter.egg-info :   compliled bite code   (used for pip)
+|-gplot.egg-info :   compliled bite code   (used for pip)
  ```
  
  
