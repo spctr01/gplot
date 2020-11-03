@@ -37,7 +37,7 @@
 |    |
 |    |location.py  : returns the location of file app.py
 |    |
-|    |--sessionState.py : handles teh session state of streamlt 
+|    |--sessionState.py : handles the session state of streamlt 
 |    |
 |    |--__init__.py :  __init__ file
 |
