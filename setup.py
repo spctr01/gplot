@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="gploter", # Replace with your own username
+    name="gploter", 
     version="0.1",
     scripts=['gploter'],
     author="rakshit kumar",
