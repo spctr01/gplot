@@ -10,7 +10,7 @@
   ```
   pip install gplot
   ```
- ## Usage
+ ## Usage  [`usage video`](https://imgur.com/a/gDJ1Zki)
  Run the comamnd in terminal:
  ```
  gplot
